@@ -1,0 +1,14 @@
+{
+  "name": "overwatchleaugenn",
+  "version": "1.0.0",
+  "description": "Predict Overwatch Leauge Matches with NN",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "brain.js": "^2.0.0-alpha.12"
+  }
+}
